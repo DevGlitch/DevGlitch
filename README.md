@@ -2,10 +2,10 @@
 
 #### 💬 About me:
 
+- 🚀 I am looking to join an innovative company working on ML, AI, CV
 - ‍🎓 I recently graduated from a Master in Data Science at Harvard University
 - 🔬 I’m currently helping WildTrack to protect endangered species using ML and CV
 - 💻 I use: `.py`, `.r`, `.sql`, `.html`
-- 🚀 I will be looking to join an innovative company working on ML, AI, CV
 - ⚡ Fun facts: I'm a huge Harry Potter fan, and I'm building a motorcycle
   
 #### 📈 GitHub Stats 
