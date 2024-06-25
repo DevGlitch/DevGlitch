@@ -1,8 +1,11 @@
-## Hi, I'm DevGlitch 👋
+## Hi, I'm D̷e̵v̷G̸l̶i̸t̷c̸h̶  👋
 
 #### 💬 About me:
 
-- 🚀 I am looking to join an innovative company working on AI, ML, CV
-- 🔬 I’m currently helping WildTrack to protect endangered species using ML and CV
-- 💻 I use: `.py`, `.r`, `.sql`, `.html`, `.css`, `scss`, `.json`, `.yml`, `.js`
-- ⚡ Fun facts: I'm a huge Harry Potter fan, and I'm rebuilding a motorcycle
+- 🚀 Dynamic and accomplished technical program manager, lead engineer and data scientist.
+- 🔬 Leading AI innovation at [WildTrack](https://github.com/WildTrackAI) to protect endangered species through machine learning and computer vision.
+- 💻 I use: `.py`, `.tf`, `.sql`, `.html`, `.ts`, `.dart`, `.css`, `scss`, `.json`, `.yml`, `.js`, `.r`, among others.
+- 🌟 Always open to exciting opportunities and collaborations.
+- ⚡ Fun facts: I'm a huge Harry Potter fan, and I'm rebuilding a motorcycle.
+
+Feel free to check out my projects on [GitHub](https://github.com/DevGlitch). Let's collaborate and make a difference, one line of code at a time!
